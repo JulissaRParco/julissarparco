@@ -36,10 +36,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julissarparco&count_private=true&theme=gotham&show_icons=true)
 
-**GitHub Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=julissarparco&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **JulissaRParco/julissarparco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
