@@ -12,10 +12,10 @@
 <p>Welcome to my page!</p>
 <p>I'm Julissa, Software Engineer from Lima, Perú.</p>
 
-- 🔭 I’m currently working on Inetum
-- 🌱 I’m currently learning about Azure
-- 👯 I’m looking to collaborate on impact projects and tech communities
-- 💬 ask me about anything, i am happy to help
+- 🔭 I’m currently working on Enara Health.
+- 🌱 I’m currently learning about Azure/AWS.
+- 👯 I’m looking to collaborate on impact projects and tech communities.
+- 💬 Ask me about anything, i am happy to help.
 - 📫 How to reach me: <a href="https://twitter.com/julissarparco">@julissarparco</a> 
 
 **Languages and tools:**
