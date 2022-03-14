@@ -10,7 +10,7 @@
 <br />
 
 <p>Welcome to my page!</p>
-<p>I'm Julissa, a simple Developer from Lima, Perú.</p>
+<p>I'm Julissa, a simple developer from Lima, Perú.</p>
 
 - 🔭 I’m currently working on Enara Health.
 - 🌱 I’m currently learning about Azure/AWS.
